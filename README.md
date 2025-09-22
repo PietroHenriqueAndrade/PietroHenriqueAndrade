@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmen
 
 ## Habilidades Técnicas
 - Desenvolvimento backend e frontend, com compreensão de conceitos de programação e arquitetura de software.
-- Gerenciamento de banco de dados relacional (MySQL) e não relacional (MongoDB), com manipulação de dados.
+- Gerenciamento de banco de dados relacional (MySQL), com manipulação de dados.
 - Controle de versão e fluxo de trabalho com Git e GitHub.
 - Aplicação prática de projetos pessoais, integrando diferentes tecnologias e mantendo boas práticas de organização e documentação.
 
@@ -21,7 +21,5 @@ Meu foco é consolidar conhecimentos técnicos, aprimorar a capacidade de resolv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
